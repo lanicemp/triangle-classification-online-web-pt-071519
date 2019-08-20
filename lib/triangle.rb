@@ -64,6 +64,7 @@ def illegal
         true 
       end 
     end 
+    
   class TriangleError < StandardError 
    
     # def illegal 
